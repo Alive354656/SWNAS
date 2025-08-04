@@ -1,2 +1,2 @@
 # Bridging Quantitative Optimization and Qualitative Reasoning: LLM-Enhanced Neural Architecture Search with Synergistic Weights
-Since the large language model was used infrequently and required a longer reasoning time, we conducted experiments by manually querying the model (copying log print data and prompts). Therefore, the repository does not include code for LLM API calls or response formatting.
+Since the large language model was used infrequently and required a longer reasoning time(sometimes more than 200s), we conducted experiments by manually querying the model (copying log print data and prompts). Therefore, the repository does not include code for LLM API calls or response formatting.
